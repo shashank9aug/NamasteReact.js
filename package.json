@@ -1,0 +1,26 @@
+{
+  "name": "namastereact",
+  "version": "1.0.0",
+  "description": "This is namaste react learning",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/shashank9aug/NamasteReact.js.git"
+  },
+  "keywords": [
+    "react",
+    "frontend"
+  ],
+  "author": "shashank.shekhar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shashank9aug/NamasteReact.js/issues"
+  },
+  "homepage": "https://github.com/shashank9aug/NamasteReact.js#readme",
+  "dependencies": {
+    "yarn": "^1.22.19"
+  }
+}
